@@ -1,0 +1,7 @@
+mongodb_login: m-search
+mongodb_password: m-search
+mongodb_host: 127.0.0.1
+mongodb_port: 27017
+mongodb_db: m-search
+mongodb_post_collection: post
+mongodb_event_collection: event
